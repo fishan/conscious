@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """ 
-test github
+test github, чето толком не идет
 conscious manager
 Функционал программы
 1 Осознание
